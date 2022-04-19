@@ -801,8 +801,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ec26660d8d977d48b99360e46b5a3ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  createInput: {fileID: 0}
-  joinInput: {fileID: 0}
+  createInput: {fileID: 306124572}
+  joinInput: {fileID: 1236459922}
 --- !u!4 &705543333
 Transform:
   m_ObjectHideFlags: 0
